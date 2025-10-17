@@ -1,0 +1,5 @@
+{
+  "name": "Novalac Inventory Management",
+  "description": "A web-based inventory management system for a warehouse that stores different types of Novalac baby formula. It allows for tracking incoming, outgoing, and damaged stock, viewing summaries, and analyzing stock history.",
+  "requestFramePermissions": []
+}
